@@ -1,6 +1,4 @@
 
-### Psychological Safety ###
-
 ![Alt text](Design.png)
 
 
