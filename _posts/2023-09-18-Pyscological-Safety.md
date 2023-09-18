@@ -41,4 +41,3 @@ Negativity Bias
 
 Pay attention to that causes danger
 
-
