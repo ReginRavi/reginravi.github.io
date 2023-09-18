@@ -1,7 +1,5 @@
 
-![Alt text](Design.png)
-
-
+![](/images/Design.png)
 
 Psychological Safety it is different from trust 
 
