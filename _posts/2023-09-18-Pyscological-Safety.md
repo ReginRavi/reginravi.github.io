@@ -5,13 +5,18 @@ Psychological Safety it is different from trust
 
 
 
-Its very common we hear that _its ok to make the mistake_ but the real challenge is we often forget to Ask the very important question 
+Its very common we hear that _its ok to make the mistake_ but the real challenge is we often forget to ASK the very important question 
 - How hard you tried ? 
 - how much effort you put in ? 
 - Did we set the expectation to our employee when we say _its ok to make the mistake_ ?
 
-    working our best and we can make mistakes.
+Working our best and we can make mistakes.
 The team lead and the manager encourage the team member to take risks.
+Leader should encourage team members to take risks that align to the Vision of the organization.
+
+Innovation and creativity will get flourish when the team members have the mindset to take risk hence it is very important for the leader to provide the environment that provides Psychological safety
+
+
 
     Trust :
         Reliability and credibility
