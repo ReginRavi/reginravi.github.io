@@ -34,4 +34,4 @@ Furthermore, once trust is established, the focus can shift to fostering inclusi
 
 In summary, the sequence of safety, trust, inclusion, and belonging forms a strategic pathway to building a robust and harmonious workplace culture where individuals thrive and contribute their best.
 
-##### If we envision trust as a vast umbrella, it becomes evident that psychological safety is merely one crucial element nestled beneath its protective canopy.#####
+ {% include pullquote.html quote= "If we envision trust as a vast umbrella, it becomes evident that psychological safety is merely one crucial element nestled beneath its protective canopy " %}
