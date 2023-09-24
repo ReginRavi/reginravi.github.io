@@ -14,6 +14,8 @@ The team's leadership, comprising both the team lead and the manager, consistent
 
 Leadership's role extends beyond just managing; it involves nurturing an atmosphere in which team members are motivated to embark on risks that are in harmony with the organization's overarching vision and strategic objectives. This approach to leadership encourages creative problem-solving and innovation while ensuring that every risk taken contributes synergistically to the long-term goals of the organization. Effective leaders understand that by fostering a culture of strategic risk-taking, they empower their teams to boldly explore uncharted territories, harness untapped potential, and collaboratively forge a path toward the realization of a shared and ambitious future.
 
+{% include pullquote.html quote= "If we envision trust as a vast umbrella, it becomes evident that psychological safety is merely one crucial element nestled beneath its protective canopy " %}
+
 Innovation and creativity flourish when team members embrace a mindset that welcomes calculated risks. Therefore, it is of paramount importance for a leader to cultivate an environment that fosters psychological safety, as this forms the bedrock upon which a culture of innovation can thrive.
 
 In such an environment, team members feel secure in expressing their ideas, experimenting with novel approaches, and pushing the boundaries of conventional thinking. The leader plays a pivotal role in this process by creating a space where mistakes are viewed as valuable learning opportunities rather than failures, and where diverse perspectives are not only welcomed but actively sought after.
@@ -34,4 +36,3 @@ Furthermore, once trust is established, the focus can shift to fostering inclusi
 
 In summary, the sequence of safety, trust, inclusion, and belonging forms a strategic pathway to building a robust and harmonious workplace culture where individuals thrive and contribute their best.
 
- {% include pullquote.html quote= "If we envision trust as a vast umbrella, it becomes evident that psychological safety is merely one crucial element nestled beneath its protective canopy " %}
