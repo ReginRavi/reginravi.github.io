@@ -20,7 +20,7 @@ Innovation and creativity flourish when team members embrace a mindset that welc
 
 In such an environment, team members feel secure in expressing their ideas, experimenting with novel approaches, and pushing the boundaries of conventional thinking. The leader plays a pivotal role in this process by creating a space where mistakes are viewed as valuable learning opportunities rather than failures, and where diverse perspectives are not only welcomed but actively sought after.
 
-By prioritizing psychological safety, a leader not only encourages risk-taking but also empowers team members to tap into their full creative potential, resulting in a dynamic and innovative team that consistently contributes to the organization's growth and success.
+> By prioritizing psychological safety, a leader not only encourages risk-taking but also empowers team members to tap into their full creative potential, resulting in a dynamic and innovative team that consistently contributes to the organization's growth and success.
 
 In the realm of creativity and innovation, the concept of risk is integral. It signifies the courage to step into uncharted territories, challenge the status quo, and explore novel possibilities. Without risk-taking, the spark of ingenuity often remains dormant. Therefore, effective teams actively incorporate risk as a fundamental component of their strategy.
 
