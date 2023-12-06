@@ -51,5 +51,17 @@ Ansible Light speed with IBM Watson code Assistant - a Generative AI Solution.
 
 Redhat Developer Subscription. -> free download
 
+https://github.com/leogallego/instruqt-wyfp-additional.git
+
+Are we getting the maximum value out of it ?
+
+Complexity kills Productivity 
+    Strive for simplification in what you Automate.
+Optimize for readability.
+
+Think Declaratively
+     
+Landscape >> Type >> Function (Role) >> Component (Task File)
+
 
 
