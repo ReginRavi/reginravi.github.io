@@ -27,7 +27,7 @@ Speed and Consistency
 
 Team efficiency 
 
-You have bIG Challenges:
+You have BIG Challenges:
 
 Focus on what matters
 proactively respond to change
@@ -64,4 +64,26 @@ Think Declaratively
 Landscape >> Type >> Function (Role) >> Component (Task File)
 
 
+A Typical event-driven Automation process
+1. Receive event
+2. Decide on Response 
+3. Respond Automatically (AI/ML)
 
+Event-Driven Ansible Integrations and Roadmap
+
+    Roadmap for integrations for the year Q2 and Q3 2023.
+    Certified and validated content.
+
+    Blog:Event-driven Ansible ecosystem 
+
+    3 Key technical learning resources
+
+    Event-Driven Ansible labs.
+
+Ansible Rulebooks -> Yaml -> playbook
+
+Getting started with EDA Controller
+
+https://github.com/arista-netdevops-community/rhs-eda
+
+https://github.com/arista-netdevops-community/Ansible-Event-Driven-Automation-Examples
